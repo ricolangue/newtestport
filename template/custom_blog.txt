@@ -1,0 +1,54 @@
+Email Subject: account_name  (Website Update)
+To: to_email
+Cc: cc_email
+Agent queue: to_queue / tsg@proweaver.net
+
+Dear Valued Client,
+
+We have implemented your requested change(s) in the website:
+
+Home
+- activated blog on {specific area here}
+blog_link
+
+Please follow the instructions provided below to manage your blog page:
+
+Use your log-in credentials as specified below:
+Link: login_link
+Username: _username
+Password: _password
+
+1. Managing Blog Posts
+> To manage your blog postings, click on “Post” on the dashboard.
+> To add new article(s), click “Add New”.
+> To delete article(s), tick the checkbox beside the article title you wish to delete, and select the “Move to Trash” option from the drop down menu located below the table. To finalize your changes, click “Apply”.
+
+The changes done will automatically be reflected in your website.
+
+2. Managing Comments on Blog Articles
+> To manage or regulate comments on your blog page, click on “Comments” on the dashboard.
+> To view all comments, click “All”.
+> To view pending comments, click “Pending”.
+> To view approved comments, click “Approved”.
+> To view comments that were marked as spam, click “Spam”.
+> To view deleted comments, click “Trash”.
+> To delete comment(s), tick the checkbox beside the name of the comment author, and select the “Move to Trash” option from the drop down menu located below the table. To finalize your changes, click “Apply”.
+
+The changes done will automatically be reflected in your website.
+
+Once you’re done, hover over “Howdy, _nickname”  on the upper right portion of your dashboard, then click "Log Out" to avoid any unwanted or unnecessary changes.
+
+All blog comments will be sent to: config_email
+
+
+Sincerely,
+Proweaver Support/Design Team
+
+2271
+
+
+GIT File Path
+git_file_path
+
+Screenshot File Path
+scrn_file_path

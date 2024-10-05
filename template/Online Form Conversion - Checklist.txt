@@ -1,0 +1,61 @@
+Online Form Conversion Checklist
+
+Form (Website)
+» Check main reference
+» Font Used: Poppins (V3)
+» No abbreviation used
+» Spelling and Grammar (Language Tool)
+» Responsive (Mobile (360px) & Normal)
+» Phone Functionality (field: Phone Number)
+» Date Functionality (check if Date Today function)
+» Required fields (asterisk *)
+» Amount Functionality
+» Signature Functionality
+» Table feature (responsive)
+» Underline function (I hereby field)
+» Other fields (dapat naay ma inputtan)
+» Hide show function (if yes or if no)
+ - note: delete nang "if yes, ... or if no, ..." na word kung hide and show
+» Upload Function
+» Double check company name used sa form
+
+Two ways for sending:
+» Notification link
+» Direct send
+
+Incoming Email (submitted form)
+» Header (implemented)
+» Make sure all fields kay nadala
+» Checkbox (I hereby) make sure it has a disabled checkbox included
+» Madala ang upload function if naa
+
+Online Forms Database Panel
+» One testing (trash)
+
+Files
+config.php
+» Correct use of: Company Name, Mail Domain)
+forms folder
+» File Permission
+» If naay signature, kay dapat naka 777 (Signature_image folder)
+
+File Permission Scheme
+ > Read = 4, Write = 2, Execute = 1 = i plus rana
+ > first number = Owner
+ > second number = Group
+ > third number = Public
+
+Orchestra
+» Orchestra Entry (Spelling and Grammar, Right use of emails, links, backup files, screenshots)
+» Conversion details and Events list
+» Email icon update
+
+Backup and Screenshot Files
+» Git Backup
+» Screenshot (before and after page look and form is received sa incoming email)
+
+
+
+
+
+ 
